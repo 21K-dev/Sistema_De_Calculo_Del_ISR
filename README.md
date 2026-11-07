@@ -15,13 +15,13 @@ Una aplicación de consola que registra el sueldo bruto de un usuario para calcu
 ## Captura de pantalla del programa en ejecución
 
 ### Ejemplo No.1
-![Ejecución del Sistema De Calculo Del ISR, ejemplo No.1](Ejemplo No.1.png)
+![Ejecución del Sistema De Calculo Del ISR, ejemplo No.1](Ejemplo_1.png)
 ### Ejemplo No.2
-![Ejecución del Sistema De Calculo Del ISR, ejemplo No.2](Ejemplo No.2.png)
+![Ejecución del Sistema De Calculo Del ISR, ejemplo No.2](Ejemplo_2.png)
 ### Ejemplo No.3
-![Ejecución del Sistema De Calculo Del ISR, ejemplo No.3](Ejemplo No.3.png)
+![Ejecución del Sistema De Calculo Del ISR, ejemplo No.3](Ejemplo_3.png)
 ### Ejemplo No.4
-![Ejecución del Sistema De Calculo Del ISR, ejemplo No.4](Ejemplo No.4.png)
+![Ejecución del Sistema De Calculo Del ISR, ejemplo No.4](Ejemplo_4.png)
 
 ## Estructura utilizada y su función
 En este programa se implementó una estructura condicional múltiple (if, else if, else). Su función principal es controlar la ejecución evaluando el sueldo por descarte, algo similar a lo que hemos prácticado anteriormente; de esta manera, el algoritmo clasifica el salario en su tramo correspondiente de la escala publica de la DGII, aplicando la fórmula de retención exacta que le corresponde (o descartando el descuento) sin ejecutar en la maquina instrucciones innecesarias.
