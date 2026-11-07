@@ -15,13 +15,13 @@ Una aplicación de consola que registra el sueldo bruto de un usuario para calcu
 ## Captura de pantalla del programa en ejecución
 
 ### Ejemplo No.1
-![Ejecución del Sistema De Calculo Del ISR, ejemplo No.1](<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/4aa6ed76-d0b4-4541-92c1-7050e661efd8" />)
+![Ejecución del Sistema De Calculo Del ISR, ejemplo No.1](Ejemplo No.1)
 ### Ejemplo No.2
-![Ejecución del Sistema De Calculo Del ISR, ejemplo No.2](<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/4093852d-c8bc-4de4-9fa6-68bde1978112" />)
+![Ejecución del Sistema De Calculo Del ISR, ejemplo No.2](Ejemplo No.2)
 ### Ejemplo No.3
-![Ejecución del Sistema De Calculo Del ISR, ejemplo No.3](<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/f3683f97-9dd0-45c3-acca-55e6df854b33" />)
+![Ejecución del Sistema De Calculo Del ISR, ejemplo No.3](Ejemplo No.3)
 ### Ejemplo No.4
-![Ejecución del Sistema De Calculo Del ISR, ejemplo No.4](<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/08cb37de-cf47-40b2-942d-3abcd5bf5ba6" />)
+![Ejecución del Sistema De Calculo Del ISR, ejemplo No.4](Ejemplo No.4)
 
 ## Estructura utilizada y su función
 En este programa se implementó una estructura condicional múltiple (if, else if, else). Su función principal es controlar la ejecución evaluando el sueldo por descarte, algo similar a lo que hemos prácticado anteriormente; de esta manera, el algoritmo clasifica el salario en su tramo correspondiente de la escala publica de la DGII, aplicando la fórmula de retención exacta que le corresponde (o descartando el descuento) sin ejecutar en la maquina instrucciones innecesarias.
