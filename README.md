@@ -1,2 +1,27 @@
-# Sistema_De_C-lculo_Del_ISR
-Programa que le permite al usuario calcular el impuesto sobre la renta en base a su salario bruto, de una localidad determinada 
+# Sistema_De_Calculo_Del_ISR
+
+## Datos del estudiante
+- **Nombre:** Kelvin Alberto Santana Beltre.
+- **Matrícula:** *[2025-2485]*.
+
+## Descripción breve del programa
+Una aplicación de consola que registra el sueldo bruto de un usuario para calcular el ISR (Impuesto Sobre la Renta) de una localidad determinada. Aplicando de forma automática el descuento según los rangos establecidos por la DGII. Esperando como salida el monto bruto, descuento a aplicar y dencuento aplicado.  
+
+## Lógica del programa
+- **Datos de entrada:** Sueldo bruto.
+- **Datos que procesa:** Calcular el descuento del ISR según las tarifas mensuales mediante un condicional múltiple. 
+- **Datos de Salida:** Sueldo original, Descuento aplicado (o N/A) y Sueldo neto.
+
+## Captura de pantalla del programa en ejecución
+
+### Ejemplo No.1
+![Ejecución del Sistema De Calculo Del ISR, ejemplo No.1](<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/4aa6ed76-d0b4-4541-92c1-7050e661efd8" />)
+### Ejemplo No.2
+![Ejecución del Sistema De Calculo Del ISR, ejemplo No.2](<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/4093852d-c8bc-4de4-9fa6-68bde1978112" />)
+### Ejemplo No.3
+![Ejecución del Sistema De Calculo Del ISR, ejemplo No.3](<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/f3683f97-9dd0-45c3-acca-55e6df854b33" />)
+### Ejemplo No.4
+![Ejecución del Sistema De Calculo Del ISR, ejemplo No.4](<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/08cb37de-cf47-40b2-942d-3abcd5bf5ba6" />)
+
+## Estructura utilizada y su función
+En este programa se implementó una estructura condicional múltiple (if, else if, else). Su función principal es controlar la ejecución evaluando el sueldo por descarte, algo similar a lo que hemos prácticado anteriormente; de esta manera, el algoritmo clasifica el salario en su tramo correspondiente de la escala publica de la DGII, aplicando la fórmula de retención exacta que le corresponde (o descartando el descuento) sin ejecutar en la maquina instrucciones innecesarias.
